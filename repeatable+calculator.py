@@ -50,3 +50,5 @@ while True:
 		print ("\nEither/both a or b is/are not (an) integer(s) or incorrect function")
 		print ("\nPlease restart the programme \nCheck your input to make sure you follow the instruction carefully")
 		break
+
+# test for github demo
